@@ -51,9 +51,9 @@ tourney_items       : dict = {  "Persona 5 Royal": None,
 
 tourney_item_list   : list = list(tourney_items.keys())
 
-scorers             : list = [  "Anthony", "Ryan", "Andrew", "Joe", "Brandon", "Thomas", "Madison", "Steven", 
-                                "Qwaelan", "Brian", "Zinan", "Mike", "Kyle", "Brendan", "Shane", "Jaylen", 
-                                "Andy", "Jason", "Matt" ]
+scorers             : list = [  "Ryan", "Anthony", "Brandon", 
+                                "Qwaelan", "Brian", "Kyle", "Brendan", "Jaylen", 
+                                "Andy", "Jason"]
 
 score_items         : list = [  "Gameplay", "Visuals or Art Style", "Music" ]
 
