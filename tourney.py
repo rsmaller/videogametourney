@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import os, sys, pathlib, math
 
 tourney_items       : dict = {  "Persona 5 Royal": None,
